@@ -26,7 +26,7 @@ TO_DATE   = "31-03-2026"    # End date   (DD-MM-YYYY)
 # ========================================================================
 
 # ======================= OUTPUT FOLDER ==================================
-OUTPUT_FOLDER = r"D:\OneDrive - Neo Group\Vihaan Vora - Work\Arvesta NBFC\Code\CSV output"
+OUTPUT_FOLDER = r"D:\OneDrive - Neo Group\Vihaan Vora - Work\Arvesta NBFC\Code\corporate-actions\CSV output"
 # ========================================================================
 
 # Create NSE connection
